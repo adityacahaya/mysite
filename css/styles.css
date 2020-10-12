@@ -1,0 +1,86 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+}
+
+img {
+  margin: 0;
+}
+
+h1 {
+  color: #eeeeee;
+  margin: 0 auto;
+  font-family: 'Pacifico', cursive;
+}
+
+h2 {
+  color: #eeeeee;
+  margin: 0 auto;
+  font-family: 'Pacifico', cursive;
+}
+
+h3 {
+  color: #eeeeee;
+  margin: 0 auto;
+  font-family: 'Pacifico', cursive;
+}
+
+p {
+  color: #eeeeee;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #eeeeee;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 0;
+}
+
+.top {
+  background-color: #222831;
+  padding-top: 100px;
+  padding-bottom: 0;
+  position: relative;
+}
+
+.middle {
+  background-color: #393e46;
+  padding-bottom: 10px;
+}
+
+.bottom {
+  background-color: #00adb5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.cloud-image-2 {
+  position: relative;
+  left: 350px;
+}
+
+.cloud-image-1 {
+  position: absolute;
+  left: 250px;
+}
+
+.copyright{
+  margin-bottom: 0;
+}
+
+.img-kill {
+  margin: 10px;
+}
+
+.skill-table {
+  margin-left: auto;
+  margin-right: auto;
+}
